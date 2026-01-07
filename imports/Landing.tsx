@@ -1543,98 +1543,10 @@ function Group11() {
 }
 
 
-function Group14() {
-  return (
-    <div className="flex gap-[16px] items-center relative shrink-0" data-name="Group">
-      <a 
-        href="https://play.google.com/store/apps" 
-        target="_blank" 
-        rel="noopener noreferrer"
-        className="hover:opacity-90 transition-opacity cursor-pointer"
-        aria-label="Доступно в Google Play"
-      >
-        <Group11 />
-      </a>
-    </div>
-  );
-}
-
-function Badge() {
-  return (
-    <a 
-      href="https://play.google.com/store/apps" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="h-[86.957px] relative shrink-0 w-[293.478px] hover:opacity-90 transition-opacity cursor-pointer block"
-      data-name="Badge"
-      aria-label="Доступно в Google Play"
-    >
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 293.478 86.9565">
-        <g id="Badge">
-          <g clipPath="url(#clip0_1_1684)">
-            <path d={svgPaths.p353aba00} fill="var(--fill-0, #1A1A1A)" id="Vector" />
-            <path d={svgPaths.p1fce8a40} fill="var(--fill-0, white)" id="Vector_2" />
-            <path d={svgPaths.p9916080} fill="url(#paint0_linear_1_1684)" id="Vector_3" />
-            <path d={svgPaths.pa9adf52} fill="url(#paint1_linear_1_1684)" id="Vector_4" />
-            <path d={svgPaths.p1dc74c00} fill="url(#paint2_linear_1_1684)" id="Vector_5" />
-            <path d={svgPaths.p191ed1a0} fill="url(#paint3_linear_1_1684)" id="Vector_6" />
-            <path d={svgPaths.p25156100} fill="var(--fill-0, #1A1A1A)" id="Vector_7" opacity="0.2" />
-            <path d={svgPaths.p35cc180} fill="var(--fill-0, #1A1A1A)" id="Vector_8" opacity="0.12" />
-            <path d={svgPaths.p23884980} fill="var(--fill-0, #1A1A1A)" id="Vector_9" opacity="0.12" />
-            <path d={svgPaths.p21a10980} fill="var(--fill-0, white)" id="Vector_10" opacity="0.25" />
-            <path d={svgPaths.p120e0c70} fill="var(--fill-0, white)" id="Vector_11" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p3f4d1ff0} fill="var(--fill-0, white)" id="Vector_12" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p359db8fa} fill="var(--fill-0, white)" id="Vector_13" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p35ef69f2} fill="var(--fill-0, white)" id="Vector_14" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p15c37a00} fill="var(--fill-0, white)" id="Vector_15" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p14ab3d00} fill="var(--fill-0, white)" id="Vector_16" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p11b21e80} fill="var(--fill-0, white)" id="Vector_17" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p2c5e1cf0} fill="var(--fill-0, white)" id="Vector_18" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-            <path d={svgPaths.p2265d010} fill="var(--fill-0, white)" id="Vector_19" stroke="var(--stroke-0, white)" strokeMiterlimit="10" strokeWidth="0.411304" />
-          </g>
-        </g>
-        <defs>
-          <linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_1_1684" x1="47.3913" x2="10.913" y1="18.9348" y2="55.413">
-            <stop stopColor="#00A0FF" />
-            <stop offset="0.01" stopColor="#00A1FF" />
-            <stop offset="0.26" stopColor="#00BEFF" />
-            <stop offset="0.51" stopColor="#00D2FF" />
-            <stop offset="0.76" stopColor="#00DFFF" />
-            <stop offset="1" stopColor="#00E3FF" />
-          </linearGradient>
-          <linearGradient gradientUnits="userSpaceOnUse" id="paint1_linear_1_1684" x1="73.5435" x2="20.9565" y1="43.4783" y2="43.4783">
-            <stop stopColor="#FFE000" />
-            <stop offset="0.41" stopColor="#FFBD00" />
-            <stop offset="0.78" stopColor="#FFA500" />
-            <stop offset="1" stopColor="#FF9C00" />
-          </linearGradient>
-          <linearGradient gradientUnits="userSpaceOnUse" id="paint2_linear_1_1684" x1="53.9783" x2="4.49999" y1="48.4783" y2="97.9348">
-            <stop stopColor="#FF3A44" />
-            <stop offset="1" stopColor="#C31162" />
-          </linearGradient>
-          <linearGradient gradientUnits="userSpaceOnUse" id="paint3_linear_1_1684" x1="15.8696" x2="37.9565" y1="0.391305" y2="22.4783">
-            <stop stopColor="#32A071" />
-            <stop offset="0.07" stopColor="#2DA771" />
-            <stop offset="0.48" stopColor="#15CF74" />
-            <stop offset="0.8" stopColor="#06E775" />
-            <stop offset="1" stopColor="#00F076" />
-          </linearGradient>
-          <clipPath id="clip0_1_1684">
-            <rect fill="white" height="86.9565" rx="16" width="293.478" />
-          </clipPath>
-        </defs>
-      </svg>
-    </a>
-  );
-}
+// Store badges (Play Store / App Store) removed
 
 function Frame20() {
-  return (
-    <div className="content-stretch flex flex-col gap-[8px] h-[179px] items-start relative shrink-0 w-[293px]">
-      <Group14 />
-      <Badge />
-    </div>
-  );
+  return null;
 }
 
 function Frame26() {
