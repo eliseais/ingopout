@@ -1,28 +1,28 @@
 import svgPaths from "./svg-f01hxeguxb";
-import imgAdobeExpressFile5 from "figma:asset/cf34f0b843efa9e2efb2e444a07f366f452bdee6.png";
-import imgAdobeExpressFile102 from "figma:asset/defad184b7a009856d9dc695cd43998b15a10e5d.png";
-import imgAdobeExpressFile121 from "figma:asset/78d08332dca4d89bf2ee67547c9dc0f3e0c8110d.png";
-import imgNoise from "figma:asset/66bff7bdfbbef7edaefa4a7570fbcde664049cbd.png";
-import imgControlCenterIPhone from "figma:asset/fee1533da930d8deae1cb4b772efdf2b7fa3c910.png";
-import imgIPhone16ProBlackTitaniumPortrait from "figma:asset/85a8d4cb5dd8334894f69f8c4156fea900e1fc9a.png";
-import img3DIconPartyPopper12 from "figma:asset/2708f71b9351720d21b5efeb4a4f146d76d22297.png";
-import imgFrame2085661617 from "figma:asset/6fa5b038014c961f6c15ed229f3d8717b68f6a4b.png";
-import img3DIconBall1 from "figma:asset/d7262b575565e3b24dcb78aa3eec775a06e502b0.png";
-import imgFrame2085661614 from "figma:asset/78a986caa9e600b7bf82bbe2aa029afc294a094b.png";
-import imgFrame2085661616 from "figma:asset/11e457ede8ec32805ed36209c911df8d0dc4e93b.png";
-import imgFrame5 from "figma:asset/2f12ba48730d9d6a106762cd4a7dee003aeaa2d1.png";
-import imgFrame6 from "figma:asset/56edfd94c8fe79567292d4b45605cc9c557d528b.png";
-import imgFrame10 from "figma:asset/de64f1029acbeffa38ddfd6d36be9c33c4564659.png";
-import imgFrame11 from "figma:asset/341c82aba2970c97ff87b1e8dfdc6917a3970f50.png";
-import imgVector1271 from "figma:asset/755175a3f763b9bccd63c97c4715f5f407dddc53.png";
-import imgControlCenterIPhone1 from "figma:asset/3515ebc214d993a228f56bdcf8644edbc3d6dd60.png";
-import imgFlowerFlowerPatternBerryStandsStraightCutie72 from "figma:asset/aa9c290653f7dc17ea07262e6251a57a34c49084.png";
-import imgControlCenterIPhone2 from "figma:asset/180314fcd1a58c787ae8521bf2529159409ba1ec.png";
-import imgFrame2085661630 from "figma:asset/e96bf8d6d26d737a66d743b4d04f2ae4b14425cf.png";
-import imgControlCenterIPhone3 from "figma:asset/c3393694c9bac078f6975039fe81c6cca6e9bb50.png";
-import imgForestRussiaStyleLittleToyMiniAndFlowerCut1 from "figma:asset/d31bcab908cd79472d7965f469c029bb909ca4ea.png";
-import imgFrame2085661631 from "figma:asset/034eea7fb31ae245098a4d02e3ac226ab4936786.png";
-import imgControlCenterIPhone4 from "figma:asset/cb40af5a5213eb266db85095b435f1c28b065d76.png";
+import imgAdobeExpressFile5 from "../assets/cf34f0b843efa9e2efb2e444a07f366f452bdee6.png";
+import imgAdobeExpressFile102 from "../assets/defad184b7a009856d9dc695cd43998b15a10e5d.png";
+import imgAdobeExpressFile121 from "../assets/78d08332dca4d89bf2ee67547c9dc0f3e0c8110d.png";
+import imgNoise from "../assets/66bff7bdfbbef7edaefa4a7570fbcde664049cbd.png";
+import imgControlCenterIPhone from "../assets/fee1533da930d8deae1cb4b772efdf2b7fa3c910.png";
+import imgIPhone16ProBlackTitaniumPortrait from "../assets/85a8d4cb5dd8334894f69f8c4156fea900e1fc9a.png";
+import img3DIconPartyPopper12 from "../assets/2708f71b9351720d21b5efeb4a4f146d76d22297.png";
+import imgFrame2085661617 from "../assets/6fa5b038014c961f6c15ed229f3d8717b68f6a4b.png";
+import img3DIconBall1 from "../assets/d7262b575565e3b24dcb78aa3eec775a06e502b0.png";
+import imgFrame2085661614 from "../assets/78a986caa9e600b7bf82bbe2aa029afc294a094b.png";
+import imgFrame2085661616 from "../assets/11e457ede8ec32805ed36209c911df8d0dc4e93b.png";
+import imgFrame5 from "../assets/2f12ba48730d9d6a106762cd4a7dee003aeaa2d1.png";
+import imgFrame6 from "../assets/56edfd94c8fe79567292d4b45605cc9c557d528b.png";
+import imgFrame10 from "../assets/de64f1029acbeffa38ddfd6d36be9c33c4564659.png";
+import imgFrame11 from "../assets/341c82aba2970c97ff87b1e8dfdc6917a3970f50.png";
+import imgVector1271 from "../assets/755175a3f763b9bccd63c97c4715f5f407dddc53.png";
+import imgControlCenterIPhone1 from "../assets/3515ebc214d993a228f56bdcf8644edbc3d6dd60.png";
+import imgFlowerFlowerPatternBerryStandsStraightCutie72 from "../assets/aa9c290653f7dc17ea07262e6251a57a34c49084.png";
+import imgControlCenterIPhone2 from "../assets/180314fcd1a58c787ae8521bf2529159409ba1ec.png";
+import imgFrame2085661630 from "../assets/e96bf8d6d26d737a66d743b4d04f2ae4b14425cf.png";
+import imgControlCenterIPhone3 from "../assets/c3393694c9bac078f6975039fe81c6cca6e9bb50.png";
+import imgForestRussiaStyleLittleToyMiniAndFlowerCut1 from "../assets/d31bcab908cd79472d7965f469c029bb909ca4ea.png";
+import imgFrame2085661631 from "../assets/034eea7fb31ae245098a4d02e3ac226ab4936786.png";
+import imgControlCenterIPhone4 from "../assets/cb40af5a5213eb266db85095b435f1c28b065d76.png";
 import { imgFrame2085661585, imgAdobeExpressFile4, imgAdobeExpressFile101, imgNoise1, imgFlowerFlowerPatternBerryStandsStraightCutie71, imgNoise2, imgFrame2085661620, imgFlowerFlowerPatternBerryStandsStraightCutie73 } from "./svg-phmn8";
 
 function Frame42() {
@@ -969,7 +969,7 @@ function Frame44() {
             <br aria-hidden="true" />
             {`от уютных кофеен, куда ходят местные, `}
             <br aria-hidden="true" />
-            {`до секретных музеев и атмосферных баров. `}
+            {`до секретных музеев и атмосферных баров. `}
           </p>
         </div>
       </div>
@@ -1470,80 +1470,8 @@ function Frame15() {
   );
 }
 
-function Group() {
-  return (
-    <div className="h-[83.157px] relative w-[293px]" data-name="Group">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 293 83.1565">
-        <g id="Group">
-          <path d={svgPaths.pde03400} fill="var(--fill-0, #1A1A1A)" id="Vector" />
-        </g>
-      </svg>
-    </div>
-  );
-}
 
-function Group1() {
-  return (
-    <div className="h-[56.059px] relative w-[46.035px]" data-name="<Group>">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 46.0353 56.0591">
-        <g id="<Group>">
-          <path d={svgPaths.p18c4aa00} fill="var(--fill-0, white)" id="<Path>" />
-          <path d={svgPaths.pcd5de80} fill="var(--fill-0, white)" id="<Path>_2" />
-        </g>
-      </svg>
-    </div>
-  );
-}
-
-function Group8() {
-  return (
-    <div className="relative" data-name="<Group>">
-      <Group1 />
-    </div>
-  );
-}
-
-function Group9() {
-  return (
-    <div className="h-[33.957px] relative w-[164.703px]" data-name="Group">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 164.703 33.9568">
-        <g id="Group">
-          <path d={svgPaths.p32308180} fill="var(--fill-0, white)" id="Vector" />
-          <path d={svgPaths.p135bd00} fill="var(--fill-0, white)" id="Vector_2" />
-          <path d={svgPaths.p1cf5c400} fill="var(--fill-0, white)" id="Vector_3" />
-          <path d={svgPaths.p164ef400} fill="var(--fill-0, white)" id="Vector_4" />
-          <path d={svgPaths.p2a0fffc0} fill="var(--fill-0, white)" id="Vector_5" />
-          <path d={svgPaths.p38394070} fill="var(--fill-0, white)" id="Vector_6" />
-          <path d={svgPaths.p22403800} fill="var(--fill-0, white)" id="Vector_7" />
-          <path d={svgPaths.p314a6800} fill="var(--fill-0, white)" id="Vector_8" />
-        </g>
-      </svg>
-    </div>
-  );
-}
-
-function Group10() {
-  return (
-    <div className="flex items-center gap-[8px] relative" data-name="<Group>">
-      <Group8 />
-      <Group9 />
-    </div>
-  );
-}
-
-function Group11() {
-  return (
-    <div className="relative" data-name="Group">
-      <Group />
-      <div className="absolute inset-0 flex items-center justify-center">
-        <Group10 />
-      </div>
-    </div>
-  );
-}
-
-
-// Store badges (Play Store / App Store) removed
+// Store badges (Play Store / App Store) removed - components removed
 
 function Frame20() {
   return null;
