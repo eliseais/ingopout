@@ -969,7 +969,7 @@ function Frame44() {
             <br aria-hidden="true" />
             {`от уютных кофеен, куда ходят местные, `}
             <br aria-hidden="true" />
-            {`до секретных музеев и атмосферных баров. `}
+            {`до секретных музеев и атмосферных баров.`}
           </p>
         </div>
       </div>
@@ -1470,77 +1470,7 @@ function Frame15() {
   );
 }
 
-function Group() {
-  return (
-    <div className="h-[83.157px] relative w-[293px]" data-name="Group">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 293 83.1565">
-        <g id="Group">
-          <path d={svgPaths.pde03400} fill="var(--fill-0, #1A1A1A)" id="Vector" />
-        </g>
-      </svg>
-    </div>
-  );
-}
 
-function Group1() {
-  return (
-    <div className="h-[56.059px] relative w-[46.035px]" data-name="<Group>">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 46.0353 56.0591">
-        <g id="<Group>">
-          <path d={svgPaths.p18c4aa00} fill="var(--fill-0, white)" id="<Path>" />
-          <path d={svgPaths.pcd5de80} fill="var(--fill-0, white)" id="<Path>_2" />
-        </g>
-      </svg>
-    </div>
-  );
-}
-
-function Group8() {
-  return (
-    <div className="relative" data-name="<Group>">
-      <Group1 />
-    </div>
-  );
-}
-
-function Group9() {
-  return (
-    <div className="h-[33.957px] relative w-[164.703px]" data-name="Group">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 164.703 33.9568">
-        <g id="Group">
-          <path d={svgPaths.p32308180} fill="var(--fill-0, white)" id="Vector" />
-          <path d={svgPaths.p135bd00} fill="var(--fill-0, white)" id="Vector_2" />
-          <path d={svgPaths.p1cf5c400} fill="var(--fill-0, white)" id="Vector_3" />
-          <path d={svgPaths.p164ef400} fill="var(--fill-0, white)" id="Vector_4" />
-          <path d={svgPaths.p2a0fffc0} fill="var(--fill-0, white)" id="Vector_5" />
-          <path d={svgPaths.p38394070} fill="var(--fill-0, white)" id="Vector_6" />
-          <path d={svgPaths.p22403800} fill="var(--fill-0, white)" id="Vector_7" />
-          <path d={svgPaths.p314a6800} fill="var(--fill-0, white)" id="Vector_8" />
-        </g>
-      </svg>
-    </div>
-  );
-}
-
-function Group10() {
-  return (
-    <div className="flex items-center gap-[8px] relative" data-name="<Group>">
-      <Group8 />
-      <Group9 />
-    </div>
-  );
-}
-
-function Group11() {
-  return (
-    <div className="relative" data-name="Group">
-      <Group />
-      <div className="absolute inset-0 flex items-center justify-center">
-        <Group10 />
-      </div>
-    </div>
-  );
-}
 
 
 // Store badges (Play Store / App Store) removed
